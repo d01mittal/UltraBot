@@ -1,0 +1,6 @@
+streamlit
+google-generativeai
+groq
+langchain
+langchain-groq
+python-dotenv
