@@ -2,7 +2,8 @@
 
 
 
-https://github.com/Adityak8340/FlexiBot/assets/140245948/8baa31c4-b8de-40ee-8918-4ee680d2792f
+[![Watch the video](https://github.com/d01mittal/UltraBot/blob/9d6eb432d51c9d79f01439ff65f0646f3c376b91/Thumbnail.png)](https://github.com/d01mittal/UltraBot/blob/9d6eb432d51c9d79f01439ff65f0646f3c376b91/UltraBot%20with%20Vision.mp4)
+
 
 
 # UltraBot 🤖
