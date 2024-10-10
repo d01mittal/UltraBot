@@ -142,7 +142,7 @@ def main():
             response = conversation.predict(human_input=input_text)
             message = {'human': input_text, 'AI': response}
             st.session_state.chat_history.append(message)
-            st.subheader("FlexiBot Response:")
+            st.subheader("UltraBot Response:")
         
         display_typing_effect(response, typing_delay)
 
